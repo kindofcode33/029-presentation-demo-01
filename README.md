@@ -4,4 +4,4 @@ A test of agentic ASU-branded slide presentations.
 
 ## Live Demo
 
-https://kindofcode33.github.io/029-presentation-demo-01/student-agent-ideas.html
+https://kindofcode33.github.io/029-presentation-demo-01/
